@@ -1,0 +1,11 @@
+name: redis
+title: Redis
+icon: redis
+
+services:
+- name: redis
+  title: Redis
+  service: redis
+  volumes:
+  - name: data
+    size: 5
