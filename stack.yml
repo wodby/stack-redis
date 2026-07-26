@@ -6,6 +6,3 @@ services:
 - name: redis
   title: Redis
   service: redis
-  volumes:
-  - name: data
-    size: 5
