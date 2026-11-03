@@ -1,6 +1,7 @@
 name: redis
 title: Redis
 icon: redis
+docs: https://wodby.com/docs/2.0/stacks/catalog/redis/
 
 services:
 - name: redis
